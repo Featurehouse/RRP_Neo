@@ -3,7 +3,7 @@
     "description": {
       "text": "${mod_id} resources"
     },
-    "supported_formats": {"min_inclusive": ${pack_format_number}}
+    "supported_formats": {"min_inclusive": ${pack_format_number}},
     "pack_format": ${pack_format_number}
   }
 }
